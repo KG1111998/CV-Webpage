@@ -2,7 +2,7 @@
 body{
 margin:0;
 font-family:Arial, sans-serif;
-background:url('https://images.unsplash.com/photo-1519681393784-d120267933ba') center/cover fixed;
+background:'background.jpg'
 color:#222;
 }
 .overlay{
